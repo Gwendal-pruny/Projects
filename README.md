@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ Gwendal Pruny: Projects Repository 🛡️
 
 Welcome to my project repository! This repository contains a diverse collection of my work, showcasing my skills and journey in software development and cybersecurity. Here you will find projects ranging from game design to security audits, demonstrating my technical capabilities and passion for innovation.
@@ -109,4 +108,3 @@ Welcome to my project repository! This repository contains a diverse collection 
 ---
 
 Thank you for visiting my project repository. Feel free to explore the different projects to see my skills and achievements in action. For any questions or collaboration opportunities, please contact me through the information provided above.
-```
